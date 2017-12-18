@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Material.Application")]
 [assembly: AssemblyDescription("Material design application framework")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Edon gashi")]
 [assembly: AssemblyProduct("Material.Application")]
 [assembly: AssemblyCopyright("Copyright © Edon Gashi 2016")]
 [assembly: AssemblyTrademark("")]

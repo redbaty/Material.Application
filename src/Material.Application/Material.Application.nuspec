@@ -3,7 +3,7 @@
   <metadata>
     <id>Material.Application</id>
     <!-- version will be replaced by MSBuild -->
-    <version>0.0.0.0</version>
+    <version>$version$</version>
     <title>ViewModel-first WPF framework</title>
     <authors>Edon Gashi</authors>
     <description>Read title</description>
